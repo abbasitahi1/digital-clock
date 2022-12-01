@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("milad-fakurian-nY14Fs8pxT8-unsplash.jpg");
+}
+
+
+#myclock {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: whitesmoke;
+    font-size: 60px;
+    letter-spacing: 7px;
+}
+
+	
